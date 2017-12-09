@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.example.sonminhee.checkheart.AudioApplication;
+import com.example.sonminhee.checkheart.util.AudioApplication;
 import com.example.sonminhee.checkheart.model.AudioItem;
 import com.example.sonminhee.checkheart.R;
 import com.squareup.picasso.Picasso;
